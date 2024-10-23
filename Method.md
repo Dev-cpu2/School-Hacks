@@ -5,4 +5,4 @@ you can use cmd + w to close chrome and to enable the auto lock when you open ch
 
 **So Far this it for the Method, Thank You**
 
-I will post more info on school hacks and more!
+I will post more info on school hacks and more!!
