@@ -5,11 +5,12 @@ I will teach you different methods of 'exploiting' your way through school wifi 
 So Far We Have;
 
 How to not get caught by teachers, The files are;
-'Setting-up-for-chrome' and 'Method'
+'Setting-Up-For-Chrome-Browser-lock' and 'Method-Browser-lock'
 
 How to 'exploit your way through wifi blockages, The files are;
-'Setting-Up-Chrome-VPN' and 'Method-VeePN'
+'Setting-Up-For-Chrome-VeePN' and 'Method-VeePN'
 
+We also have links for the chrome extension's in 'Links.md'
 
 ***Disclaimer***
 This will be the one of the best methods in order to hid your chrome tabs from your teachers.
